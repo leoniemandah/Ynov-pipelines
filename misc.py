@@ -6,5 +6,3 @@ def add(n, m):
 
     """
     return int(n) + int(m)
-
-
